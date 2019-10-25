@@ -12,7 +12,6 @@ private var titleViewH : CGFloat = 40
 
 class HomeController: UIViewController {
 
-    
 //    懒加载
     //头部
     private lazy var pageTitleView:PageTitleView = {
